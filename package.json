@@ -1,0 +1,24 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "testing actions",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --recursive './src'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mulperi/actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mulperi/actions/issues"
+  },
+  "homepage": "https://github.com/Mulperi/actions#readme",
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "typescript": "^3.7.2"
+  }
+}
