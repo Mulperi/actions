@@ -1,5 +1,5 @@
 // Comment
 
-const testi: string = "Testi";
+const testi: string = "asdasd";
 
 console.log(testi);
