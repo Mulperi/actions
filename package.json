@@ -4,7 +4,8 @@
   "description": "testing actions",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "build:prod": "tsc",
+    "build:test": "tsc",
     "test": "mocha --recursive './src'"
   },
   "repository": {
