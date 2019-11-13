@@ -6,7 +6,9 @@
   "scripts": {
     "build:prod": "tsc",
     "build:test": "tsc",
-    "test": "mocha --recursive './src'"
+    "test": "mocha --recursive './src'",
+    "deploy:prod": "echo \"Error: no deploy script specified\" && exit 1",
+    "deploy:test": "echo \"Error: no deploy script specified\" && exit 1"
   },
   "repository": {
     "type": "git",

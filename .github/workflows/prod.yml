@@ -25,5 +25,6 @@ jobs:
         npm ci
         npm run build:prod --if-present
         npm test
+        npm run deploy:prod
       env:
         CI: true
