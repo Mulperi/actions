@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Mulperi/actions#readme",
   "dependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "typescript": "^3.7.2"
   }
 }
